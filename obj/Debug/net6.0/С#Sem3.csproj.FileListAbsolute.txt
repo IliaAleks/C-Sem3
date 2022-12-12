@@ -1,0 +1,15 @@
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.csproj.AssemblyReference.cache
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.AssemblyInfoInputs.cache
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.AssemblyInfo.cs
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.csproj.CoreCompileInputs.cache
+C:\Users\av980\Desktop\Homework\С#Sem3\bin\Debug\net6.0\С#Sem3.exe
+C:\Users\av980\Desktop\Homework\С#Sem3\bin\Debug\net6.0\С#Sem3.deps.json
+C:\Users\av980\Desktop\Homework\С#Sem3\bin\Debug\net6.0\С#Sem3.runtimeconfig.json
+C:\Users\av980\Desktop\Homework\С#Sem3\bin\Debug\net6.0\С#Sem3.dll
+C:\Users\av980\Desktop\Homework\С#Sem3\bin\Debug\net6.0\С#Sem3.pdb
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.dll
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\refint\С#Sem3.dll
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.pdb
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\С#Sem3.genruntimeconfig.cache
+C:\Users\av980\Desktop\Homework\С#Sem3\obj\Debug\net6.0\ref\С#Sem3.dll
